@@ -44,7 +44,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts/20180614_01.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/fts_furuhashi/20181115_29.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -53,37 +53,44 @@ body::before {
  
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2018年11月15日(木)に元FTS古橋さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<a href="20180614_05.jpg" data-lightbox="abc"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_03.jpg" data-lightbox="abc"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_04.jpg" data-lightbox="abc"><img src="20180614_04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_02.jpg" data-lightbox="abc"><img src="20180614_02.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_06.jpg" data-lightbox="abc"><img src="20180614_06.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_07.jpg" data-lightbox="abc"><img src="20180614_07.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_08.jpg" data-lightbox="abc"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_09.jpg" data-lightbox="abc"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_10.jpg" data-lightbox="abc"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
-<a href="20180614_11.JPG" data-lightbox="abc"><img src="20180614_11.JPG" alt="サンプル画像" width="500" /></a>
-<a href="20180614_01.JPG" data-lightbox="abc"><img src="20180614_01.JPG" alt="サンプル画像" width="250" /></a>
+<a href="20181115_01.jpg" data-lightbox="abc"><img src="20181115_01.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_02.jpg" data-lightbox="abc"><img src="20181115_02.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_03.jpg" data-lightbox="abc"><img src="20181115_03.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_04.jpg" data-lightbox="abc"><img src="20181115_04.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_05.jpg" data-lightbox="abc"><img src="20181115_05.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_06.jpg" data-lightbox="abc"><img src="20181115_06.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_07.jpg" data-lightbox="abc"><img src="20181115_07.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_08.jpg" data-lightbox="abc"><img src="20181115_08.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_09.jpg" data-lightbox="abc"><img src="20181115_09.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_10.jpg" data-lightbox="abc"><img src="20181115_10.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_11.JPG" data-lightbox="abc"><img src="20181115_11.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_12.JPG" data-lightbox="abc"><img src="20181115_12.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_13.JPG" data-lightbox="abc"><img src="20181115_13.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_14.JPG" data-lightbox="abc"><img src="20181115_14.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_15.JPG" data-lightbox="abc"><img src="20181115_15.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_16.JPG" data-lightbox="abc"><img src="20181115_16.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_17.JPG" data-lightbox="abc"><img src="20181115_17.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_18.JPG" data-lightbox="abc"><img src="20181115_18.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_19.JPG" data-lightbox="abc"><img src="20181115_19.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_20.JPG" data-lightbox="abc"><img src="20181115_20.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_21.JPG" data-lightbox="abc"><img src="20181115_21.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_22.JPG" data-lightbox="abc"><img src="20181115_22.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_23.JPG" data-lightbox="abc"><img src="20181115_23.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_24.JPG" data-lightbox="abc"><img src="20181115_24.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_25.JPG" data-lightbox="abc"><img src="20181115_25.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_26.JPG" data-lightbox="abc"><img src="20181115_26.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_27.JPG" data-lightbox="abc"><img src="20181115_27.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_28.JPG" data-lightbox="abc"><img src="20181115_28.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="500" /></a>
+<a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="500" /></a>
 <h4><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。<br>
-画像のダウンロード要望がありましたので、背景画像へのリンクも付けました。</span></h4><br>
-<a href="20180614_12.JPG" data-lightbox="abc"><img src="20180614_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_13.JPG" data-lightbox="abc"><img src="20180614_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_14.JPG" data-lightbox="abc"><img src="20180614_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_15.JPG" data-lightbox="abc"><img src="20180614_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_16.JPG" data-lightbox="abc"><img src="20180614_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_17.JPG" data-lightbox="abc"><img src="20180614_17.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_18.JPG" data-lightbox="abc"><img src="20180614_18.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_19.JPG" data-lightbox="abc"><img src="20180614_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_20.JPG" data-lightbox="abc"><img src="20180614_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_21.JPG" data-lightbox="abc"><img src="20180614_21.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_22.JPG" data-lightbox="abc"><img src="20180614_22.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_23.JPG" data-lightbox="abc"><img src="20180614_23.JPG" alt="サンプル画像" width="180" /></a>
+
 <h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
 
 <br><br>
@@ -155,8 +162,7 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 ★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★<br></span></h3>
 	</div></div>
 <br><br><br><br><br><br><br><br><br><br>	
-	<h2><a href="https://photos.google.com/u/1/" target="_blank">FTS画像Link</a></h2>
-<br><br><br><br>	
+	
 	
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
