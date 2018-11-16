@@ -67,9 +67,9 @@ body::before {
 <a href="20181115_06.JPG" data-lightbox="abc"><img src="20181115_06.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_07.JPG" data-lightbox="abc"><img src="20181115_07.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_08.JPG" data-lightbox="abc"><img src="20181115_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_09.JPG" data-lightbox="abc"><img src="20181115_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_10.JPG" data-lightbox="abc"><img src="20181115_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_11.JPG" data-lightbox="abc"><img src="20181115_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_09.JPG" data-lightbox="abc"><img src="20181115_09.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20181115_10.JPG" data-lightbox="abc"><img src="20181115_10.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20181115_11.JPG" data-lightbox="abc"><img src="20181115_11.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_12.JPG" data-lightbox="abc"><img src="20181115_12.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_13.JPG" data-lightbox="abc"><img src="20181115_13.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_14.JPG" data-lightbox="abc"><img src="20181115_14.JPG" alt="サンプル画像" width="180" /></a>
@@ -87,9 +87,9 @@ body::before {
 <a href="20181115_26.JPG" data-lightbox="abc"><img src="20181115_26.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_27.JPG" data-lightbox="abc"><img src="20181115_27.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_28.JPG" data-lightbox="abc"><img src="20181115_28.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="540" /></a>
+<a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="90" /></a>
+<a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="90" /></a>
 <h4><span class="white">↑パノラマ・マジックで、少し歪んじゃった人が居たりしますが、ご愛敬〜〜(^_^)v。<br>
 </span></h4></div>
 
