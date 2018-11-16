@@ -89,57 +89,70 @@ body::before {
 <br><br>
 
 <div style="background-color:rgb(255,255,255,0.2);">
-<h3><span class="snow">・・・始まりはこのメールから・・・<br>
+<h3><span class="snow">・・・開催通知・・・<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-From: Masayo Arai (荒井 雅代)<br>
-Sent: Friday, April 27, 2018 10:47 AM<br>
-To: Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Jun_A_Tomizawa@hm.honda.co.j; mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp<br>
-Cc: masayoarai1129@gmail.com<br>
-Subject: 【ご案内】　未来交通システム研究室同窓会のご案内<br>
-関係各位<br>
-お世話様でございます。<br>
-のびのびにしておりました<br>
-未来交通システム研究室同窓会を以下の日程で行います。<br>
-少し先になりますが、場所を予約する関係で出席できる方は<br>
-このメールにご連絡いただけると幸いです。<br>
-よろしくお願いします。<br>
-日時：2018年6月14日（木）19:00<br>
-場所：23区内<br>
-加藤正彰さんもご出席いただけます！<br>
-※前回お返事届いた方のみにご連絡しております。<br>
+From: Masayo Arai (荒井 雅代) <br>
+Sent: Wednesday, October 31, 2018 11:17 AM<br>
+To: Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Yutaka Kamata (鎌田 豊) <Yutaka_Kamata@n.t.rd.honda.co.jp>; Hidehiko Anzai (安齊 秀彦) <hidehiko_anzai@n.t.rd.honda.co.jp>; Masashi Manita (間仁田 雅司) <masashi_manita@n.t.rd.honda.co.jp>; Yasuhiro Sakashita (坂下 泰広) <yasuhiro_sakashita@n.w.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; '0nh75b05325615n@ezweb.ne.jp'; Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; JUN TOMIZAWA (冨沢 潤) <Jun_A_Tomizawa@hm.honda.co.jp>; Naomi Ito (伊東 尚美) <naomi_ito@n.w.rd.honda.co.jp>
+Cc: Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp><br>
+Subject: 【場所決定】　FTS：古橋さんご卒業会<br>
+ <br>
+旧未来交通システム研究室の皆様<br>
+（返信メールいただいた方のみのご連絡）<br>
+ <br>
+お世話様です。<br>
+以下の日程で古橋さんご卒業会を開催いたします。<br>
+改めて出席者の確認をしたいと思います。<br>
+変更される方はご連絡ください<br>
+期日：11月5日（月）まで<br>
+ <br>
+日時：11月15日（木）19:00～22:00<br>
+場所：個室和食 傳～DEN～ 大宮店<br>
+　　　埼玉県さいたま市大宮区仲町2-43-1 COMO大宮ビル3F<br>
+　　　　https://r.gnavi.co.jp/d51a1y3d0000/menu7/<br>
+内容：5500円コース　3時間飲み放題付<br>
+予約名：渋川<br><br>
+ 
+＜出席者＞　ご連絡いただいた順<br>
+１．村田さん<br>
+２．加藤さん<br>
+３．(間仁田さん)<br>
+４．斉藤さん<br>
+５．横山さん<br>
+６．小林さん<br>
+７．安斉さん<br>
+８．羽田さん<br>
+９．(坂下さん)<br>
+１０．渋川さん<br>
+１１．矢口さん<br>
+１２．(冨沢さん)<br>
+１３．古橋さん（主賓）<br>
+１４．荒井<br>
+ <br>
+コース料理を注文いたします。<br>
+キャンセル料が発生することございます。<br>
+ご了承ください。<br>
+ <br>
+ <br>
+また、今回、記念品を用意しようと考えております。<br>
+お勧めのお品ものございましたらご連絡ください。<br>
+ <br>
+ <br>
+幹事長：渋川隊長<br>
+幹事：加藤さん、羽田さん（HGT取りまとめ）、荒井<br>
+ <br>
+ <br>
+★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★・．<br>
+　<br>
 荒井　雅代<br>
 株式会社 本田技術研究所　R&DセンターＸ<br>
+<br>
 〒351-0188　埼玉県和光市本町8-1<br>
 外線：080-4789-8853　内線：8705148<br>
 FAX:048-462-5106<br>
 E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
-</div>
-
-<br><br>
-
-
-<div style="background-color:rgb(255,255,255,0.2);">
-<h3><span class="snow">・・・開催宣言・・・<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-From: Masayo Arai (荒井 雅代)<br>
-Sent: Monday, June 04, 2018 2:12 PM<br>
-To: mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp; Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; Yasuhiro Sakashita (坂下 泰広) <yasuhiro_sakashita@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yutaka Kamata (鎌田 豊) <Yutaka_Kamata@n.t.rd.honda.co.jp>; MASASHI SATOMURA (里村 昌史) <Masashi_Satomura@hm.honda.co.jp>; KAZUYA TAMURA (田村 和也) <kazuya_tamura@hm.honda.co.jp>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki.maruyama@mail.a.rd.honda.co.jp><br>
-Subject: 【人数確認】　FTS関連同窓会　<br>
-関係者各位<br>
-お世話様でございます。<br>
-FTS関連の同窓会を以下の日程で行います。<br>
-参加できる方は、このメールに6月7日（木）までにお返事くださーい。<br>
-日時：2018年6月14日（木）19:00～<br>
-場所：Chinese Grill 随園別館 京橋店<br>
-        050-3476-0232<br>
-        https://r.gnavi.co.jp/p386002/<br>
-内容：コース料理を注文する予定<br>
-予約名：荒井<br>
-よろしくお願いいたします。<br>　
-荒井　雅代<br>
-株式会社 本田技術研究所　R&DセンターＸ<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+<br>
+★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★<br></span></h3>
 	</div></div>
 <br><br><br><br><br><br><br><br><br><br>	
 	<h2><a href="https://photos.google.com/u/1/" target="_blank">FTS画像Link</a></h2>
@@ -154,5 +167,5 @@ FTS関連の同窓会を以下の日程で行います。<br>
 
 <!-- フッタ -->
  <footer>
- Copyright 2018/06/15 S.Hada
+ Copyright 2018/11/16 S.Hada
  </footer>
