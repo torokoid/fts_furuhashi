@@ -59,16 +59,16 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<a href="20181115_01.jpg" data-lightbox="abc"><img src="20181115_01.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_02.jpg" data-lightbox="abc"><img src="20181115_02.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_03.jpg" data-lightbox="abc"><img src="20181115_03.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_04.jpg" data-lightbox="abc"><img src="20181115_04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_05.jpg" data-lightbox="abc"><img src="20181115_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_06.jpg" data-lightbox="abc"><img src="20181115_06.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_07.jpg" data-lightbox="abc"><img src="20181115_07.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_08.jpg" data-lightbox="abc"><img src="20181115_08.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_09.jpg" data-lightbox="abc"><img src="20181115_09.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20181115_10.jpg" data-lightbox="abc"><img src="20181115_10.jpg" alt="サンプル画像" width="180" /></a>
+<a href="20181115_01.JPG" data-lightbox="abc"><img src="20181115_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_02.JPG" data-lightbox="abc"><img src="20181115_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_03.JPG" data-lightbox="abc"><img src="20181115_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_04.JPG" data-lightbox="abc"><img src="20181115_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_05.JPG" data-lightbox="abc"><img src="20181115_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_06.JPG" data-lightbox="abc"><img src="20181115_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_07.JPG" data-lightbox="abc"><img src="20181115_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_08.JPG" data-lightbox="abc"><img src="20181115_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_09.JPG" data-lightbox="abc"><img src="20181115_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_10.JPG" data-lightbox="abc"><img src="20181115_10.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_11.JPG" data-lightbox="abc"><img src="20181115_11.JPG" alt="サンプル画像" width="500" /></a>
 <a href="20181115_12.JPG" data-lightbox="abc"><img src="20181115_12.JPG" alt="サンプル画像" width="500" /></a>
 <a href="20181115_13.JPG" data-lightbox="abc"><img src="20181115_13.JPG" alt="サンプル画像" width="500" /></a>
