@@ -89,9 +89,9 @@ body::before {
 <a href="20181115_28.JPG" data-lightbox="abc"><img src="20181115_28.JPG" alt="サンプル画像" width="500" /></a>
 <a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="500" /></a>
 <a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="500" /></a>
-<h4><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。<br>
-
-<h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
+<a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="500" /></a>
+<h4><span class="white">↑パノラマ・マジックで、少し歪んじゃった人が居たりしますが、ご愛敬〜〜(^_^)v。<br>
+</span></h4></div>
 
 <br><br>
 
