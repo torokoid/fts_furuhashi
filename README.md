@@ -79,10 +79,10 @@ body::before {
 <a href="20181115_18.JPG" data-lightbox="abc"><img src="20181115_18.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_19.JPG" data-lightbox="abc"><img src="20181115_19.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_20.JPG" data-lightbox="abc"><img src="20181115_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_21.JPG" data-lightbox="abc"><img src="20181115_21.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_21.JPG" data-lightbox="abc"><img src="20181115_21.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_22.JPG" data-lightbox="abc"><img src="20181115_22.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_23.JPG" data-lightbox="abc"><img src="20181115_23.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_24.JPG" data-lightbox="abc"><img src="20181115_24.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_24.JPG" data-lightbox="abc"><img src="20181115_24.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_25.JPG" data-lightbox="abc"><img src="20181115_25.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_26.JPG" data-lightbox="abc"><img src="20181115_26.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_27.JPG" data-lightbox="abc"><img src="20181115_27.JPG" alt="サンプル画像" width="180" /></a>
