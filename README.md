@@ -159,8 +159,7 @@ Subject: 【場所決定】　FTS：古橋さんご卒業会<br>
 FAX:048-462-5106<br>
 E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br>
-★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★<br></span></h3>
-	</div>
+★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★<br>
 <br><br><br><br><br><br><br><br><br><br>	
 	
 	
