@@ -23,6 +23,9 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 	
+.date:before{content:"20181115";}
+	
+	
  #preview{
 	position: relative;
 	border: 3px solid #333;
