@@ -91,7 +91,7 @@ body::before {
 <a href="20181115_25.JPG" data-lightbox="abc"><img src="20181115_25.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_26.JPG" data-lightbox="abc"><img src="20181115_26.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_27.JPG" data-lightbox="abc"><img src="20181115_27.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_28.JPG" data-lightbox="abc"><img src="20181115_28.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_28.JPG" data-lightbox="abc"><img src="20181115_28.JPG" alt="サンプル画像" width="360" /></a>
 <a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="540" /></a>
 <a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="90" /></a>
 <a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="90" /></a>
