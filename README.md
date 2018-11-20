@@ -92,7 +92,7 @@ body::before {
 <a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="540" /></a>
 <a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="90" /></a>
 <a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="90" /></a>
-<h4><span class="white">↑パノラマ・マジックで、少し歪んじゃった人が居たりしますが、ご愛敬〜〜(^_^)v。<br>
+<h4><span class="white">↑パノラマ・マジックで、少し歪んじゃった人が居たりしますが、ご愛敬〜〜(^_^)v。</span></h4><br>
 <h4><span class="white">ここからは加藤さん撮影分。<br>
 <a href="20181115_32.JPG" data-lightbox="abc"><img src="20181115_32.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_33.JPG" data-lightbox="abc"><img src="20181115_33.JPG" alt="サンプル画像" width="100" /></a>
