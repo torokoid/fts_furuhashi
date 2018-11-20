@@ -62,9 +62,6 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<!--
-<a href="<p class="date">_01.JPG"</p> data-lightbox="abc"><img src="<p class="date">_01.JPG"</p> alt="サンプル画像" width="180" /></a>
--->
 <a href="20181115_02.JPG" data-lightbox="abc"><img src="20181115_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_03.JPG" data-lightbox="abc"><img src="20181115_03.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_04.JPG" data-lightbox="abc"><img src="20181115_04.JPG" alt="サンプル画像" width="180" /></a>
@@ -123,7 +120,7 @@ body::before {
 	</p></h3></div>
 
 <br><br>
-
+<div id="wrap">
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">・・・開催通知・・・<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
