@@ -189,7 +189,7 @@ FAX:048-462-5106<br>
 E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br>
 ★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★<br>
-<br><br><br><br><br><br><br><br><br><br>	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
 
