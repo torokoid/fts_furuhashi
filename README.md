@@ -110,7 +110,7 @@ body::before {
 <a href="20181115_45.JPG" data-lightbox="abc"><img src="20181115_45.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_46.JPG" data-lightbox="abc"><img src="20181115_46.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_47.JPG" data-lightbox="abc"><img src="20181115_47.JPG" alt="サンプル画像" width="100" /></a>
-</span></h4>
+</span></h4></div>
 
 <h1>     <span class="blue"><strong>動画リンク集</strong></span></h1>
  <h3>
