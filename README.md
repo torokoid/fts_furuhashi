@@ -122,7 +122,7 @@ body::before {
 <br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.2);">
-<h3><span class="snow">・・・開催通知・・・</span></h3><br>
+<span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代) <br>
 Sent: Wednesday, October 31, 2018 11:17 AM<br>
@@ -185,7 +185,7 @@ Subject: 【場所決定】　FTS：古橋さんご卒業会<br>
 FAX:048-462-5106<br>
 E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</span><br>
 </div></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
@@ -198,6 +198,6 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- フッタ -->
- <footer>
+ <footer><span class="snow">
  Copyright 2018/11/16 S.Hada
- </footer>
+	</span></footer>
