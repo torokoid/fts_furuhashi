@@ -93,7 +93,7 @@ body::before {
 <a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="90" /></a>
 <a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="90" /></a>
 <h4><span class="white">↑パノラマ・マジックで、少し歪んじゃった人が居たりしますが、ご愛敬〜〜(^_^)v。</span></h4><br>
-<h4><span class="white">ここからは加藤さん撮影分。<br>
+<h4><span class="white">ここからは加藤さん撮影分。</span></h4><br>
 <a href="20181115_32.JPG" data-lightbox="abc"><img src="20181115_32.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_33.JPG" data-lightbox="abc"><img src="20181115_33.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_34.JPG" data-lightbox="abc"><img src="20181115_34.JPG" alt="サンプル画像" width="100" /></a>
@@ -110,8 +110,8 @@ body::before {
 <a href="20181115_45.JPG" data-lightbox="abc"><img src="20181115_45.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_46.JPG" data-lightbox="abc"><img src="20181115_46.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_47.JPG" data-lightbox="abc"><img src="20181115_47.JPG" alt="サンプル画像" width="100" /></a>
-</span></h4>
-<h4><span class="white">ここからは雅代さん撮影分。<br>
+
+<h4><span class="white">ここからは雅代さん撮影分。</span></h4><br>
 <a href="20181115_48.JPG" data-lightbox="abc"><img src="20181115_48.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_49.JPG" data-lightbox="abc"><img src="20181115_49.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_50.JPG" data-lightbox="abc"><img src="20181115_50.JPG" alt="サンプル画像" width="100" /></a>
@@ -125,7 +125,7 @@ body::before {
 <a href="20181115_58.JPG" data-lightbox="abc"><img src="20181115_58.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_59.JPG" data-lightbox="abc"><img src="20181115_59.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_60.JPG" data-lightbox="abc"><img src="20181115_60.JPG" alt="サンプル画像" width="180" /></a>
-</span></h4></div>
+</div>
 
 <h1>     <span class="blue"><strong>動画リンク集</strong></span></h1>
  <h3>
