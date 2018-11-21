@@ -110,6 +110,7 @@ body::before {
 <a href="20181115_45.JPG" data-lightbox="abc"><img src="20181115_45.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_46.JPG" data-lightbox="abc"><img src="20181115_46.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_47.JPG" data-lightbox="abc"><img src="20181115_47.JPG" alt="サンプル画像" width="100" /></a>
+</span></h4>
 <h4><span class="white">ここからは雅代さん撮影分。<br>
 <a href="20181115_48.JPG" data-lightbox="abc"><img src="20181115_48.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_49.JPG" data-lightbox="abc"><img src="20181115_49.JPG" alt="サンプル画像" width="100" /></a>
