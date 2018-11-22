@@ -118,13 +118,15 @@ body::before {
 <a href="20181115_53.JPG" data-lightbox="abc"><img src="20181115_53.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_54.JPG" data-lightbox="abc"><img src="20181115_54.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_55.JPG" data-lightbox="abc"><img src="20181115_55.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_59.JPG" data-lightbox="abc"><img src="20181115_59.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181115_60.JPG" data-lightbox="abc"><img src="20181115_60.JPG" alt="サンプル画像" width="180" /></a>
+<br>
 <a href="20181115_49.JPG" data-lightbox="abc"><img src="20181115_49.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_50.JPG" data-lightbox="abc"><img src="20181115_50.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_56.JPG" data-lightbox="abc"><img src="20181115_56.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_57.JPG" data-lightbox="abc"><img src="20181115_57.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181115_58.JPG" data-lightbox="abc"><img src="20181115_58.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_59.JPG" data-lightbox="abc"><img src="20181115_59.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_60.JPG" data-lightbox="abc"><img src="20181115_60.JPG" alt="サンプル画像" width="180" /></a>
+
 </div>
 
 <h1>     <span class="blue"><strong>動画リンク集</strong></span></h1>
