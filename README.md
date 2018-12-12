@@ -413,7 +413,7 @@ https://torokoid.github.io/fts_furuhashi/<br>
 
 お手元の写真を共有いただければ、HPに追加しますので、ご連絡下さい。<br>
 
-羽田<br>
+羽田<br></span>
 </div></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
