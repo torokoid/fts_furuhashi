@@ -204,10 +204,10 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</span><br>
 </div></div>
-<br><br>
+<br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.2);">
-<span class="snow"><h3>・・・開催翌週のメール会話が面白かったので記録します。・・・</h3><br>
+<span class="snow"><h3>・・・開催翌週のメール会話が面白かったので記録しました。・・・</h3><br>
 From: torokoid Mibu [mailto:torokoid@gmail.com] <br>
 Sent: Wednesday, November 21, 2018 10:22 PM<br>
 Subject: Re: 【ご連絡】　FTS：古橋さんご卒業会<br>
