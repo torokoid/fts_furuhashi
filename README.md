@@ -208,6 +208,9 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.2);">
 <span class="snow"><h3>・・・開催翌週のメール会話が面白かったので記録しました。・・・</h3><br>
+	
+<br><br><br>
+	
 From: torokoid Mibu [mailto:torokoid@gmail.com] <br>
 Sent: Wednesday, November 21, 2018 10:22 PM<br>
 Subject: Re: 【ご連絡】　FTS：古橋さんご卒業会<br>
@@ -229,6 +232,8 @@ https://torokoid.github.io/fts_furuhashi/<br>
 https://torokoid.github.io/fts_furuhashi/<br>
 
 羽田<br>
+
+<br><br><br>
 
 2018年11月20日(火) 10:18 Masayo Arai (荒井 雅代) <masayo_arai@n.w.rd.honda.co.jp>:<br>
 
@@ -262,6 +267,8 @@ https://torokoid.github.io/fts_furuhashi/<br>
 
 荒井雅代<br>
 
+<br><br><br>
+
 From: torokoid Mibu [mailto:torokoid@gmail.com] <br>
 Sent: Monday, November 19, 2018 10:28 PM<br>
 Subject: Re: 【ご連絡】　FTS：古橋さんご卒業会<br>
@@ -273,6 +280,8 @@ Subject: Re: 【ご連絡】　FTS：古橋さんご卒業会<br>
 宇都宮から岡本までは、奥様タクシーでした〜😂<br>
 
 HPの方は、写真が集まってきたら、また更新して再配信しますのでお楽しみに。<br>
+
+<br><br><br>
 
 2018年11月19日(月) 20:55 Seiichi Furuhashi (古橋 清一) <seiichi_furuhashi@n.w.rd.honda.co.jp>:<br>
 
@@ -295,6 +304,8 @@ HPの方は、写真が集まってきたら、また更新して再配信しま
 古橋<br>
 
  iPhoneから送信<br>
+ 
+ <br><br><br>
 
 2018/11/19 19:18、Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>のメール:<br>
 
@@ -309,6 +320,8 @@ N-VANですか？　何か食材でも仕入れにいくみたいでいいです
 そろそろ不具合は収まっている頃だと思います<br>
 
 小林<br>
+
+<br><br><br>
 
 From: Toshio Yokoyama (横山 利夫) <br>
 Sent: Monday, November 19, 2018 7:07 PM<br>
@@ -355,6 +368,23 @@ Mail: yumi_yoshiba@n.t.rd.honda.co.jp<br>
 
 ------------------------------------------------------<br>
 
+<br><br><br>
+
+From: Shuichi Kato (加藤 秀一) <br>
+Sent: Monday, November 19, 2018 6:55 PM<br>
+To: Minoru Kobayashi (小林 実) <br>
+Subject: RE: 【ご連絡】　FTS：古橋さんご卒業会<br>
+ 
+小林さん<br>
+お疲れ様です。<br>
+たいへんですね。普段からちゃんと寝てくださいね。<br>
+N-VAN納車が今週末です。<br>
+調子悪くなったら、小林さんに直接相談すれば良かったんでしたっけ？<br>
+ 
+加藤（8724421）@HGAデザイン1BL<br>
+
+<br><br><br>
+
 From: Minoru Kobayashi (小林 実) <br>
 Sent: Monday, November 19, 2018 6:47 PM<br>
 Subject: RE: 【ご連絡】　FTS：古橋さんご卒業会 <br>
@@ -364,6 +394,8 @@ Subject: RE: 【ご連絡】　FTS：古橋さんご卒業会 <br>
 アラームセット前に眠り込んでしまいました<br>
 
 ちなみに、那須塩原駅には３人の同じ境遇の人がいました<br>
+
+<br><br><br>
 
 From: Masayo Arai (荒井 雅代) <br>
 Sent: Monday, November 19, 2018 6:37 PM<br>
@@ -385,6 +417,8 @@ Subject: RE: 【ご連絡】　FTS：古橋さんご卒業会<br>
 
 小林<br>
 
+<br><br><br>
+
 From: Masayo Arai (荒井 雅代) <br>
 Sent: Monday, November 19, 2018 2:50 PM<br>
 Subject: 【ご連絡】　FTS：古橋さんご卒業会 <br>
@@ -402,6 +436,8 @@ Subject: 【ご連絡】　FTS：古橋さんご卒業会 <br>
 荒井雅代<br>
 
 ＊＊＊＊＊<br>
+
+<br><br><br>
 
 みなさま<br>
 
