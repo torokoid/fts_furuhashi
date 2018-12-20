@@ -36,6 +36,9 @@ font-size: 1.5em;
 	text-align: center;
 }
 
+section {
+background-color: rgba(0, 225, 0, 0.5);
+}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
@@ -204,6 +207,42 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</span><br>
 </div></div>
+
+<br><br><br><br><br><br>
+<section>
+<span class="snow"><h3>・・・古橋さん、ご挨拶メール。・・・</h3><br>
+	
+<br>
+
+
+Seiichi Furuhashi (古橋 清一) globalhonda.onmicrosoft.com 経由<br>
+12月19日(水) 15:35 (1 日前)<br>
+
+To Toshio, Masayo, 自分, Hidehiko, Satoshi, Minoru, Shuichi, Tadahiro, Takero, Yuji, Yutaka, Seiichi<br><br>
+
+旧FTSの皆さん<br><br>
+ 
+先日の大宮での卒業式有り難うございました。<br>
+久しぶりに皆様にお会いでき、楽しいひと時を過ごすことができました。<br><br>
+ 
+本日をもちまして、31年間勤めてきたHONDAを定年退職します。<br>
+31年間、楽しく、充実したHONDA人生でした。<br>
+特に、多種多様なキャラクターが終結したFTSは大変印象深く残っています。<br><br>
+ 
+飲んだ後の寝過ごしには充分気をつけて、<br>
+健康に留意しこれからも頑張って下さい。皆様の活躍を祈っています。<br><br>
+ 
+退職後の連絡先ですが、<br>
+携帯：080-9200-1289<br>
+携帯アドレス：seiichi_furuhashi@docomo.ne.jp<br>
+となります。<br><br>
+ 
+よろしくお願い致します。<br><br><br>
+
+ 
+古橋<br>
+</section>
+
 <br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.2);">
