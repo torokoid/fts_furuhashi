@@ -210,9 +210,8 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 
 <br><br><br><br><br><br>
 <section>
-<span class="snow"><h3>・・・古橋さん、ご挨拶メール。・・・</h3><br>
-	
 <br>
+<span class="snow"><h3>・・・古橋さん、ご挨拶メール。・・・</h3><br>
 
 
 Seiichi Furuhashi (古橋 清一) globalhonda.onmicrosoft.com 経由<br>
@@ -240,7 +239,7 @@ To Toshio, Masayo, 自分, Hidehiko, Satoshi, Minoru, Shuichi, Tadahiro, Takero,
 よろしくお願い致します。<br><br><br>
 
  
-古橋<br>
+古橋<br><br>
 </span>
 </section>
 
