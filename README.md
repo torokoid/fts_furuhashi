@@ -241,6 +241,7 @@ To Toshio, Masayo, 自分, Hidehiko, Satoshi, Minoru, Shuichi, Tadahiro, Takero,
 
  
 古橋<br>
+</span>
 </section>
 
 <br><br><br><br><br><br>
