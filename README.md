@@ -210,7 +210,6 @@ E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 
 <br><br><br><br><br><br>
 <section>
-<br>
 <span class="snow"><h3>・・・古橋さん、ご挨拶メール。・・・</h3><br>
 
 
