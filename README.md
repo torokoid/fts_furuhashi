@@ -36,6 +36,10 @@ font-size: 1.5em;
 	text-align: center;
 }
 
+div {
+background-color: rgba(225, 225, 225, 0.3);
+}
+
 section {
 background-color: rgba(0, 225, 0, 0.5);
 }
