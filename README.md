@@ -66,8 +66,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年11月15日(木)に元FTS古橋さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="wrap">
-<div style="background-color:rgb(255,255,255,0.3);">
+<div>
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20181115_02.JPG" data-lightbox="abc"><img src="20181115_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_03.JPG" data-lightbox="abc"><img src="20181115_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -141,11 +140,10 @@ body::before {
 <p>横山さん、古橋さんのお言葉<br>
  <a href="https://youtu.be/W5K0uA5AadE" target="_blank">横山さんスピーチ</a><br/>
  <a href="https://youtu.be/rfUiO9g_3ug" target="_blank">古橋さんスピーチ</a><br/>
-	</p></h3></div>
+	</p></h3>
 
 <br><br>
-<div id="wrap">
-<div style="background-color:rgb(255,255,255,0.2);">
+<div>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代) <br>
@@ -210,7 +208,7 @@ FAX:048-462-5106<br>
 E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</span><br>
-</div></div>
+</div>
 
 <br><br><br><br><br><br>
 <section>
@@ -247,8 +245,7 @@ To Toshio, Masayo, 自分, Hidehiko, Satoshi, Minoru, Shuichi, Tadahiro, Takero,
 </section>
 
 <br><br><br><br><br><br>
-<div id="wrap">
-<div style="background-color:rgb(255,255,255,0.2);">
+<div>
 <span class="snow"><h3>・・・開催翌週のメール会話が面白かったので記録しました。・・・</h3><br>
 	
 <br>
@@ -492,7 +489,7 @@ https://torokoid.github.io/fts_furuhashi/<br>
 お手元の写真を共有いただければ、HPに追加しますので、ご連絡下さい。<br>
 
 羽田<br></span>
-</div></div>
+</div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
