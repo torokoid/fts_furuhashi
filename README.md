@@ -37,7 +37,7 @@ font-size: 1.5em;
 }
 
 a {
-background-color: rgba(225, 225, 225, 0.3);
+background-color: rgba(204, 255, 102, 0.5);
 }
 
 section {
