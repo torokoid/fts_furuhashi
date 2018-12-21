@@ -36,7 +36,7 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-span {
+a {
 background-color: rgba(225, 225, 225, 0.3);
 }
 
