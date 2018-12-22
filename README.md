@@ -36,7 +36,7 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-span {
+div {
 background-color: rgba(255, 255, 255, 0.3);
 }
 
