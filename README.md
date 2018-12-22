@@ -36,8 +36,8 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-a {
-background-color: rgba(204, 255, 102, 0.5);
+span {
+background-color: rgba(255, 255, 255, 0.3);
 }
 
 section {
@@ -143,7 +143,7 @@ body::before {
 	</p></h3>
 
 <br><br>
-<div>
+<span>
 <span class="snow"><h3>・・・開催通知・・・</h3><br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 From: Masayo Arai (荒井 雅代) <br>
@@ -208,7 +208,7 @@ FAX:048-462-5106<br>
 E-mail:masayo_arai@n.w.rd.honda.co.jp<br>
 <br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</span><br>
-</div>
+</span>
 
 <br><br><br><br><br><br>
 <section>
@@ -245,7 +245,7 @@ To Toshio, Masayo, 自分, Hidehiko, Satoshi, Minoru, Shuichi, Tadahiro, Takero,
 </section>
 
 <br><br><br><br><br><br>
-<div>
+<span>
 <span class="snow"><h3>・・・開催翌週のメール会話が面白かったので記録しました。・・・</h3><br>
 	
 <br>
@@ -489,7 +489,7 @@ https://torokoid.github.io/fts_furuhashi/<br>
 お手元の写真を共有いただければ、HPに追加しますので、ご連絡下さい。<br>
 
 羽田<br></span>
-</div>
+</span>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
