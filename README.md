@@ -240,7 +240,7 @@ To Toshio, Masayo, 自分, Hidehiko, Satoshi, Minoru, Shuichi, Tadahiro, Takero,
 よろしくお願い致します。<br><br><br>
 
  
-古橋<br><br>
+古橋<br>
 </span>
 </section>
 
