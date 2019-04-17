@@ -58,7 +58,8 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
  
-@media screen and (orientation: landscape) {
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
    p.note { display: none; }
 }
   
