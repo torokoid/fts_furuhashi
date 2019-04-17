@@ -57,12 +57,21 @@ body::before {
   background:url(https://torokoid.github.io/fts_furuhashi/20181115_29.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
+ 
+@media screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+  
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
  
 </head>
 <body>
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!</marquee></span></h1>
 <a href="20190417_002.jpg" data-lightbox="abc"><img src="20190417_002.jpg" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br>
