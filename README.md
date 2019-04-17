@@ -64,7 +64,7 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!</marquee></span></h1>
-<a href="20190417_02.jpg" data-lightbox="abc"><img src="20190417_02.jpg" alt="サンプル画像" width="1800" /></a>
+<a href="20190417_002.jpg" data-lightbox="abc"><img src="20190417_002.jpg" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年11月15日(木)に元FTS古橋さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
