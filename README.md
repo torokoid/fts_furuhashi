@@ -92,7 +92,7 @@ function btn1Click(){
 
     var selectss = prompt('支払った人の人数を入力！');
 
-    var koukin = prompt('公金補助額を入力！');
+    var koukin = prompt('繰り越し金額を入力！');
     
 var nama = [];
     for (var i=0; i<selectss; i++){
@@ -155,7 +155,12 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
     </script>
     
         </section>
-	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- フッタ -->
+ <footer>
+ Copyright 2019/12/03 S.Hada @ HGT 1G1
+ </footer>
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!</marquee></span></h1>
 <a href="20190417_002.jpg" data-lightbox="abc"><img src="20190417_002.jpg" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br>
