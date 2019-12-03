@@ -145,7 +145,7 @@ document.write("<br>支払った人への払い戻し金額は<br>")
       document.write(nama[i] + "さん：" + wari[i] + "円 <br>")
     }
 
-document.write ("<br>以上、お帰りも気を付けて、次回も元気に再開～(^^)/"); 
+document.write ("<br>以上、お帰りも気を付けて、次回も元気に再会～(^^)/"); 
     
         document.bgColor = "#00ff80";
         document.fgColor = "blue";
