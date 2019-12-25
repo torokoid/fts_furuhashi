@@ -88,11 +88,11 @@ body::before {
 //ボタン１をクリックした時の処理
 function btn1Click(){ 
 
-    var selects = prompt('参加人数を入力！');
+var selects = prompt('参加人数を入力！');
 
-    var selectss = prompt('支払った人の人数を入力！');
+var selectss = prompt('支払った人の人数を入力！');
 
-    var koukin = prompt('繰り越し金額を入力！');
+var koukin = prompt('繰り越し金額を入力！');
     
 var nama = [];
     for (var i=0; i<selectss; i++){
@@ -137,6 +137,8 @@ document.write("<br>経費の総額：" + kasann + "円<br>")
 document.write("公金補助額：" + koukin + "円<br>")
 
 document.write("精算金額の総額：" + kasan + "円<br>")
+
+document.write("参加人数は：" + selects + "人<br>")
       
 document.write("一人当たりの分担：" + buntan + "円<br>")
 
