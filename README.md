@@ -153,15 +153,15 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
         document.fgColor = "blue";
     
 }
-
-    </script>
-    
-        </section>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- フッタ -->
  <footer>
  Copyright 2019/12/03 S.Hada @ HGT 1G1
  </footer>
+    </script>
+    
+        </section>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティーが執り行われました !!!</marquee></span></h1>
