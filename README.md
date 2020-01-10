@@ -242,6 +242,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
  <h3>
 <p>横山さん、古橋さんのお言葉<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W5K0uA5AadE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfUiO9g_3ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <a href="https://youtu.be/W5K0uA5AadE" target="_blank">横山さんスピーチ</a><br/>
  <a href="https://youtu.be/rfUiO9g_3ug" target="_blank">古橋さんスピーチ</a><br/>
 	</p></h3>
