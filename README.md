@@ -163,6 +163,18 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
  Copyright 2019/12/03 S.Hada @ HGT 1G1
  </footer>
 
+
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティーが執り行われました !!!</marquee></span></h1>
+記念品目録
+<a href="20200124_001.JPG" data-lightbox="abc"><img src="20200124_001.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20200124_002.JPG" data-lightbox="abc"><img src="20200124_002.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20200124_003.JPG" data-lightbox="abc"><img src="20200124_003.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20200124_004.JPG" data-lightbox="abc"><img src="20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
+<br><br><br><br><br>
+
+
+
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!</marquee></span></h1>
 <a href="20190417_002.jpg" data-lightbox="abc"><img src="20190417_002.jpg" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br>
@@ -243,8 +255,6 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <p>横山さん、古橋さんのお言葉<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W5K0uA5AadE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfUiO9g_3ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <a href="https://youtu.be/W5K0uA5AadE" target="_blank">横山さんスピーチ</a><br/>
- <a href="https://youtu.be/rfUiO9g_3ug" target="_blank">古橋さんスピーチ</a><br/>
 	</p></h3>
 
 <br><br>
