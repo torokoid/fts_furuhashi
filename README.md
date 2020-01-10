@@ -149,7 +149,9 @@ document.write("<br>支払った人への払い戻し金額は<br>")
 
 document.write ("<br>以上、お帰りも気を付けて、次回も元気に再会～(^^)/"); 
 
+/*
 document.write ("<br><br><h2><span class="yellow"><marquee behavior="alternate"><a href="https://torokoid.github.io/fts_furuhashi/">2018/11/15,古橋さんご卒業記念パーティー → 戻る !</a></marquee></span></h2> "); 
+*/
 
 document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 
