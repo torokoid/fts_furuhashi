@@ -148,7 +148,7 @@ document.write("<br>支払った人への払い戻し金額は<br>")
     }
 
 document.write ("<br>以上、お帰りも気を付けて、次回も元気に再会～(^^)/"); 
-
+<br><br><br><br>
 document.write ("<br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 
         document.bgColor = "#00ff80";
@@ -164,14 +164,14 @@ document.write ("<br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー@魚盛 大宮店、が執り行われました !!!</marquee></span></h1>
-<h4><span class="white">記念品目録<br>
-For 伊藤さん</span></h4>
+<h2><span class="white">記念品目録</span></h2><br>
+<h3><span class="white">for 伊藤さん</span></h3>
 <a href="20200124_001.JPG" data-lightbox="abc"><img src="20200124_001.JPG" alt="サンプル画像" width="1800" /></a>
-<h4><span class="white">For 矢口さん</span></h4>
+<h3><span class="white">for 矢口さん</span></h3>
 <a href="20200124_002.JPG" data-lightbox="abc"><img src="20200124_002.JPG" alt="サンプル画像" width="1800" /></a>
-<h4><span class="white">for 小林実さん</span></h4>
+<h3><span class="white">for 小林実さん</span></h3>
 <a href="20200124_003.JPG" data-lightbox="abc"><img src="20200124_003.JPG" alt="サンプル画像" width="1800" /></a>
-<h4><span class="white">実さん近況</span></h4>
+<h3><span class="white">実さん近況</span></h3>
 <a href="20200124_004.JPG" data-lightbox="abc"><img src="20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br>
 
