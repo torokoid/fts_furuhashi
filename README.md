@@ -186,7 +186,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
-<!--
+<!-
 <h1><span class="yellow"><marquee behavior="left">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー@魚盛 大宮店、が執り行われました !!!</marquee></span></h1>
 <h2><span class="white">記念品目録</span></h2><br>
 <h3><span class="white">for 伊藤さん</span></h3>
@@ -199,6 +199,9 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_004.JPG" data-lightbox="abc"><img src="20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
 <br>
 <div class="rotateY"><h2>実さん近況_2</h2></div>
+<a href="20200120_001.JPG" data-lightbox="abc"><img src="20200120_001.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20200120_002.JPG" data-lightbox="abc"><img src="20200120_002.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20200120_003.JPG" data-lightbox="abc"><img src="20200120_003.JPG" alt="サンプル画像" width="1800" /></a>
 
 <br><br><br><br><br>
 
