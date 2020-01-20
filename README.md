@@ -62,6 +62,26 @@ body::before {
 	screen and (orientation: landscape) {
    p.note { display: none; }
 }
+
+/* 回転 */
+.rotateY {
+  background:rgba(255,0,0,0.8);
+  width: 60px;
+  height:20px;
+  padding-top:5px;
+  text-align: center;
+	-webkit-animation: animeY 3s linear infinite;
+	animation: animeY 3s linear infinite;
+}
+
+@-webkit-keyframes animeY {
+	0%	{ -webkit-transform: rotateY(-0deg); }
+	100%	{ -webkit-transform :rotateY(360deg); }
+}
+@keyframes animeY {
+	0%	{ transform: rotateY(-0deg); }
+	100%	{ transform :rotateY(360deg); }
+}
   
 </style>
 
@@ -177,6 +197,9 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_003.JPG" data-lightbox="abc"><img src="20200124_003.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">実さん近況</span></h3>
 <a href="20200124_004.JPG" data-lightbox="abc"><img src="20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
+<br>
+<div class="rotateY">実さん近況_2</div>
+
 <br><br><br><br><br>
 
 -->
