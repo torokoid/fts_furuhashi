@@ -66,7 +66,7 @@ body::before {
 /* 回転 */
 .rotateY {
   background:rgba(255,0,0,0.8);
-  width: 120px;
+  width: 160px;
   height:35px;
   padding-top:0px;
   text-align: center;
