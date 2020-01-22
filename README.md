@@ -80,7 +80,7 @@ body::before {
 }
 @keyframes animeY {
 	0%	{ transform: rotateY(-0deg); }
-	99.9%,to	{ transform :rotateY(360deg); }
+	99.9%,to	{ transform-origin: right :rotateY(360deg); }
 }
   
 </style>
