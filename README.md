@@ -64,6 +64,25 @@ body::before {
 }
 
 /* 回転 */
+.rotateX {
+  background:rgba(255,0,0,0.8);
+  width: 502px;
+  height:350px;
+  padding-top:50px;
+  text-align: center;
+	-webkit-animation: animeX 2s linear infinite;
+	animation: animeX 3s linear infinite;
+}
+
+@-webkit-keyframes animeX {
+	0%	{ -webkit-transform: rotateX(-0deg); }
+	100%	{ -webkit-transform :rotateX(360deg); }
+}
+@keyframes animeX {
+	0%	{ transform: rotateX(-0deg); }
+	100%	{ transform :rotateX(360deg); }
+}
+
 .rotateY {
   background:rgba(255,0,0,0.8);
   width: 180px;
@@ -198,7 +217,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <h3><span class="white">実さん近況</span></h3>
 <a href="20200124_004.JPG" data-lightbox="abc"><img src="20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
 <br>
-<div class="rotateY"><h2>実さん近況_2</h2></div>
+<div class="rotateX"><h2>実さん近況_2</h2></div>
 <h3><span class="white">水戸偕楽園 on 茂木・水戸・大洗、周遊コース</span></h3>
 <a href="20200120_001.JPG" data-lightbox="abc"><img src="20200120_001.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20200120_002.JPG" data-lightbox="abc"><img src="20200120_002.JPG" alt="サンプル画像" width="1800" /></a>
