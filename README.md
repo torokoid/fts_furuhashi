@@ -66,11 +66,11 @@ body::before {
 /* 回転 */
 .rotateX {
   background:rgba(255,0,0,0.8);
-  width: 502px;
-  height:350px;
-  padding-top:50px;
+  width: 180px;
+  height:35px;
+  padding-top:17px;
   text-align: center;
-	-webkit-animation: animeX 2s linear infinite;
+	-webkit-animation: animeX 3s linear infinite;
 	animation: animeX 3s linear infinite;
 }
 
