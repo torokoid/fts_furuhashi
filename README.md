@@ -76,11 +76,11 @@ body::before {
 
 @-webkit-keyframes animeY {
 	0%	{ -webkit-transform: rotateY(-0deg); }
-	100%	{ -webkit-transform :rotateY(360deg); }
+	99.9%	{ -webkit-transform :rotateY(360deg); }
 }
 @keyframes animeY {
 	0%	{ transform: rotateY(-0deg); }
-	100%	{ transform :rotateY(360deg); }
+	99.9%	{ transform :rotateY(360deg); }
 }
   
 </style>
