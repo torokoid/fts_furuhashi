@@ -68,7 +68,7 @@ body::before {
   background:rgba(255,0,0,0.8);
   width: 180px;
   height:35px;
-  padding-top:17px;
+  padding-top:0px;
   text-align: center;
 	-webkit-animation: animeX 3s linear infinite;
 	animation: animeX 3s linear infinite;
