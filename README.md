@@ -233,6 +233,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <p>
 &emsp; <a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p">魚森map <span><img src="uomori.JPG" alt="fc" width="900"></span></a></p>
 
+<SPAN style="margin-left:20px ">・<a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p">魚森map<span><img src="uomori.JPG" alt="SharePoint配信内容" width="200"></span></a>簡易表示 <br/> </SPAN>
 
 <h2><span class="white">記念品目録</span></h2><br>
 <h3><span class="white"><img src="ito.JPG" alt="サンプル画像" width="100" />for 伊藤さん</span></h3>
