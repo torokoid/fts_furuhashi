@@ -266,7 +266,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 
 <h1><span class="yellow"><marquee behavior="left">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー@魚盛 大宮店、が執り行われました !!!</marquee></span></h1>
 <h2>
-<SPAN style="margin-left:20px ">・<a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p">魚森map<span><img src="uomori.JPG" alt="魚森map" width="1800"></span></a><br/> </SPAN></h2>
+<SPAN style="margin-left:20px "><a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p">魚森map<span><img src="uomori.JPG" alt="魚森map(クリックでリンク先に飛びます)" width="3000"></span></a><br/> </SPAN></h2>
 
 <!--
 <SPAN style="margin-left:20px "><a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p"><img src="uomori.JPG" height="90" width="110" constrain="true" imagepreview="false">
