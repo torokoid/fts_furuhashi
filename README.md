@@ -122,6 +122,44 @@ body::before {
 	99.9%,to	{ transform:rotateY(360deg); }
 }
   
+  
+  
+  
+a.p:hover {
+    position: relative;
+    text-decoration: none;
+}
+a.p span {
+    display: none;
+    position: relative;
+    top: -0.5em;
+    left: 2em;
+}
+a.p:hover span {
+    border: none;
+    display: block;
+    width: 210px;
+}   
+    
+ <!--
+    p {
+margin-left: 20px;
+ }
+    -->
+
+.example {/*親div*/
+  position: relative;/*相対配置*/
+  }
+
+.example p {
+  position: absolute;/*絶対配置*/
+  color: blue;/*文字は青に*/
+  bottom: 0;
+  right: 0;
+  font-size: 1.0em;
+  }
+  
+  
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
