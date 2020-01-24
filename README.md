@@ -278,6 +278,17 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_001.JPG" data-lightbox="abc"><img src="20200124_001.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white"><img src="yaguchi.JPG" alt="サンプル画像" width="100" />for 矢口さん</span></h3>
 <a href="20200124_002.JPG" data-lightbox="abc"><img src="20200124_002.JPG" alt="サンプル画像" width="1800" /></a>
+<h3><span class="white">矢口さん近況</span></h3>
+<h3><span class="white">1218 ITS-J 卒業式</span></h3>
+<a href="20200124_005.JPG" data-lightbox="abc"><img src="20200124_005.JPG" alt="サンプル画像" width="1800" /></a>
+<h3><span class="white">FPC 卒業式</span></h3>
+<a href="20200124_006.JPG" data-lightbox="abc"><img src="20200124_006.JPG" alt="サンプル画像" width="1800" /></a>
+<h3><span class="white">ESMOスケールモデル</span></h3>
+<a href="20200124_007.JPG" data-lightbox="abc"><img src="20200124_007.JPG" alt="サンプル画像" width="1800" /></a>
+<h3><span class="white">ヤグチすべて本</span></h3>
+<a href="20200124_008.JPG" data-lightbox="abc"><img src="20200124_008.JPG" alt="サンプル画像" width="1800" /></a>
+<h3><span class="white">ネスプレッソありがとう！</span></h3>
+<a href="20200124_009.JPG" data-lightbox="abc"><img src="20200124_009.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white"><img src="kobayashi.JPG" alt="サンプル画像" width="100" />for 小林実さん</span></h3>
 <a href="20200124_003.JPG" data-lightbox="abc"><img src="20200124_003.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">実さん近況</span></h3>
