@@ -263,16 +263,16 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
-
+<!--
 <h1><span class="yellow"><marquee behavior="left">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー@魚盛 大宮店、が執り行われました !!!</marquee></span></h1>
 <h2>
 <SPAN style="margin-left:20px "><a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p">魚森map(クリックでリンク先に飛びます)<span><img src="uomori.JPG" alt="魚森map" width="1800"></span></a><br/> </SPAN></h2>
-
+-->
 <!--
 <SPAN style="margin-left:20px "><a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p"><img src="uomori.JPG" height="90" width="110" constrain="true" imagepreview="false">
      <span><img src="uomori.JPG" width="200" alt="Link拡大"></span></a></SPAN>
 -->
-
+<!--
 <h2><span class="white">記念品目録</span></h2><br>
 <h3><span class="white"><img src="ito.JPG" alt="サンプル画像" width="100" />for 伊藤さん</span></h3>
 <a href="20200124_001.JPG" data-lightbox="abc"><img src="20200124_001.JPG" alt="サンプル画像" width="1800" /></a>
@@ -295,21 +295,20 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_004.JPG" data-lightbox="abc"><img src="20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
 <br><br><br>
 <span class="red"><span class="blinking"><b><h1>実さん近況_2</h1></b></span></span><br>
-<!--<div class="rotateX"><h2>実さん近況_2</h2></div>-->
 <h3><span class="white">水戸偕楽園 on 茂木・水戸・大洗、周遊コース</span></h3>
 <a href="20200120_001.JPG" data-lightbox="abc"><img src="20200120_001.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20200120_002.JPG" data-lightbox="abc"><img src="20200120_002.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">蕎麦の里まぎの on 茂木・水戸・大洗、周遊コース</span></h3>
 <a href="20200120_003.JPG" data-lightbox="abc"><img src="20200120_003.JPG" alt="サンプル画像" width="1800" /></a>
-
+-->
+<!--
 <br><br><br><br><br><br><br><br><br><br>
-
-
-
-
+-->
+<!--
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!</marquee></span></h1>
 <a href="20190417_002.jpg" data-lightbox="abc"><img src="20190417_002.jpg" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br>
+-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年11月15日(木)に元FTS古橋さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
