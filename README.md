@@ -170,7 +170,7 @@ margin-left: 20px;
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
-	
+<p><a href="https://torokoid.github.io/fts_home">Home</a>>古橋さんご卒業記念パーティー</p>
 <h1><span class="blue"><strong>簡易、支払い＆精算計算</strong></span></h1>
 
 
